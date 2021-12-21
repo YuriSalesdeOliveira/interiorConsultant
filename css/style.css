@@ -203,6 +203,24 @@ div.author_about span.author_about_profession {
 
     header.main_header nav.main_header_nav {
        display: none;
+       position: fixed;
+       width: 100vw;
+       height: 100vh;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       top: 0;
+       left: 0;
+       background-color: #181719;
+       z-index: 1;
+    }
+
+    header.main_header nav.main_header_nav.visible {
+        display: flex;
+    }
+
+    nav.main_header_nav a.main_header_nav_item {
+        margin-bottom: 32px;
     }
 
     header.main_header a.main_header_nav_toggle_button {
@@ -217,7 +235,29 @@ div.author_about span.author_about_profession {
 
     main.main_content div.description {
         width: 100%;
+        max-width: 275px;
         margin-bottom: 25px;
+    }
+
+    div.description h1 {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 25px;
+    }
+
+    div.description p {
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 25px;
+    }
+
+    div.description > a {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    div.description > a svg {
+        margin-left: 5px;
     }
 
     figure > img {
