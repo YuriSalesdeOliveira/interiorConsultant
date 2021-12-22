@@ -34,8 +34,9 @@
 ## Geral
 
 ![Captura de tela de 2021-12-21 17-16-32](https://user-images.githubusercontent.com/54549125/147002485-569ff8af-a98a-4e7a-be4b-991644fec098.png)
-![Captura de tela de 2021-12-21 19-01-00](https://user-images.githubusercontent.com/54549125/147003869-45c5281d-799d-4102-9a20-7b8057d3a53d.png)
-![Captura de tela de 2021-12-21 19-07-28](https://user-images.githubusercontent.com/54549125/147003918-d47ce28e-87f1-4bdb-b00b-5141f05d1f92.png)
+![Captura de tela de 2021-12-21 23-39-39](https://user-images.githubusercontent.com/54549125/147026243-993df5b4-7e3f-4319-b6e5-3554fee30fa0.png)
+![Captura de tela de 2021-12-21 23-43-18](https://user-images.githubusercontent.com/54549125/147026417-30a180dd-d5e2-4f16-b4b7-1f9fe0f93a93.png)
+
 
 - Onde posso ver sua demonstração? [Click aqui](https://yurisalesdeoliveira.github.io/interiorConsultant)
 - Qual foi sua experiência? Consegui praticar alguns conceitos de CSS e JS
