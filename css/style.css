@@ -84,8 +84,18 @@ a.main_header_nav_item.selected::after {
     background-color: #fff;
 }
 
-header.main_header a.main_header_nav_toggle_button {
+header.main_header a.main_header_nav_visible_button {
     display: none;
+}
+
+header.main_header a.main_header_nav_invisible_button {
+    position: absolute;
+    display: none;
+    top: 10px;
+    right: 10px;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    color: inherit;
 }
 
 main.main_content {
@@ -201,6 +211,10 @@ div.author_about span.author_about_profession {
         padding: 0 12px;
     }
 
+    header.main_header {
+        margin-bottom: 0;
+    }
+
     header.main_header nav.main_header_nav {
        display: none;
        position: fixed;
@@ -223,7 +237,8 @@ div.author_about span.author_about_profession {
         margin-bottom: 32px;
     }
 
-    header.main_header a.main_header_nav_toggle_button {
+    header.main_header a.main_header_nav_invisible_button,
+    header.main_header a.main_header_nav_visible_button {
         display: block;
     }
 
@@ -231,6 +246,7 @@ div.author_about span.author_about_profession {
         flex-direction: column;
         justify-content: unset;
         align-items: unset;
+        margin-bottom: 144px;
     }
 
     main.main_content div.description {
