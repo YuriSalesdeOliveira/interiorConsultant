@@ -49,7 +49,7 @@
 
 ## Funcionalidade
 
-Este aplicativo / site foi criado como uma submissão a [DevChallenges](https://devchallenges.io/challenges) desafio. O [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) era construir um site estático de consultor para design de interiores.
+Este aplicativo / site foi criado como uma submissão a [DevChallenges](https://devchallenges.io/challenges) desafio. O [desafio](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) era construir um site estático de consultor para design de interiores.
 
 ## Contato
 
